@@ -1,5 +1,7 @@
 # kottans-backend
 
+## Git Basics
+
 I have watched the Udacity Git Course and it was awesome!!! I've already had experience with Git but it was great to have an opportunity to learn some new commands.
 
 ## Unix Shell
