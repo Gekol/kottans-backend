@@ -11,3 +11,6 @@ I have passed the Linux Survival Course and I had many things to learn there. Th
 ## Git Collaboration
 
 I have watched the Udacity Git Collaboration Course. It was more difficult than I thought. However, now I know how to use Git and GitHub for teamwork. That knowledge is essential for any IT specialist so it's excellent I have it!!!
+
+## Go basics 1
+https://github.com/Gekol/kottans-backend/blob/master/roman-digits/main.go
