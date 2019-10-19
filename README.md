@@ -290,3 +290,9 @@ Answer: Data Segment stores the contents for static variables initialized in sou
 ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
 ```
 After reading the articles I felt that I have become much more sure in my knowledge about Memory Management. I am especially thankful to authors of the article "Anatomy of a Program in Memory."
+
+## TCP. UDP. Network
+
+https://github.com/Gekol/kottans-backend/blob/master/task_networks/Internet_101.jpg
+https://github.com/Gekol/kottans-backend/blob/master/task_networks/Networking_for_Web_Developers.png
+The courses were really interesting and I've learned a lot of new things. I've never thought that there are wires under the Ocean. I used to think that it was the "power" of wireless Internet. My new knowledge is priceless for me.
