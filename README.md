@@ -293,6 +293,6 @@ After reading the articles I felt that I have become much more sure in my knowle
 
 ## TCP. UDP. Network
 
-https://github.com/Gekol/kottans-backend/blob/master/task_networks/Internet_101.jpg
+https://github.com/Gekol/kottans-backend/blob/master/task_networks/Internet_101.jpg &nbsp
 https://github.com/Gekol/kottans-backend/blob/master/task_networks/Networking_for_Web_Developers.png
 The courses were really interesting and I've learned a lot of new things. I've never thought that there are wires under the Ocean. I used to think that it was the "power" of wireless Internet. My new knowledge is priceless for me.
