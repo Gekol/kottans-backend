@@ -296,3 +296,23 @@ After reading the articles I felt that I have become much more sure in my knowle
 https://github.com/Gekol/kottans-backend/blob/master/task_networks/Internet_101.jpg \
 https://github.com/Gekol/kottans-backend/blob/master/task_networks/Networking_for_Web_Developers.png
 The courses were really interesting and I've learned a lot of new things. I've never thought that there are wires under the Ocean. I used to think that it was the "power" of wireless Internet. My new knowledge is priceless for me.
+
+## HTTP & HTTPS
+1. Name at least three possible negative consequences of not using https.
+    1. Other people will be able to eavesdrop my connection.
+    2. Other people will be able to intercept and update messages I send to server from my browser.
+    3. Server and my browser won't be able to recognize each other. Thus, I may get on absolutely wrong site.
+2. Public key is used in assymetric key algorithm. Public key is used to encrypt messages while the private key is used to decrypt them. My browser uses the server's public key and encrypt my message for server with it and server uses its private key to decrypt my message and vice versa.
+3.  1. POST
+    2. GET
+    3. PUT
+    4. POST
+    5. PUT
+    6. POST
+    
+My curl requests:
+curl -i https://api.github.com/users/Gekol
+curl  https://api.github.com/gists/starred
+curl --user "Gekol:BLABLABLA" https://api.github.com/gists/starred
+curl --user "Gekol:************" https://api.github.com/gists/starred
+curl --user "Gekol" https://api.github.com/gists/starred
