@@ -316,3 +316,12 @@ curl  https://api.github.com/gists/starred
 curl --user "Gekol:BLABLABLA" https://api.github.com/gists/starred
 curl --user "Gekol:************" https://api.github.com/gists/starred
 curl --user "Gekol" https://api.github.com/gists/starred
+
+## Patterns
+https://github.com/Gekol/kottans-backend/blob/master/task_patterns/Lessons1.png \
+https://github.com/Gekol/kottans-backend/blob/master/task_patterns/Lessons2.png \
+https://github.com/Gekol/kottans-backend/blob/master/task_patterns/Lessons3.png \
+https://github.com/Gekol/kottans-backend/blob/master/task_patterns/Lessons4.png \
+https://github.com/Gekol/kottans-backend/blob/master/task_patterns/Lessons5.png
+
+It was rather interesting but the course turned to be really big. It took me much more time than I expected
